@@ -1,3 +1,3 @@
 # JQueryAutoLoad
 
-Load JQuery after checking JQuery and $ (Tampermonkey)
+Load JQuery after checking $ (Tampermonkey)
